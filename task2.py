@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def multiply_until_zero():
     """
     Считывает числа с клавиатуры и перемножает их до ввода 0.
